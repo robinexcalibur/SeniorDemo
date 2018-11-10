@@ -1,0 +1,10 @@
+Bob Smith, Important news regarding your..., Hello! It's nice to speak with you again, 11:21am,
+Nigerian Prince, I need your help, I have lots of money..., 10:34am,
+Sue Baker, Thank you!, Thank you for signing up for..., 9:55am,
+Jared, Left the oven on, I thought you might want to know..., Thur,
+Sally, RE: about that hacking, Thank you for your concern..., Thur,
+Google, Security altert for your..., emailnamehere your account..., Wed,
+Facebook, 99+ new notifications, In case you forgot about those..., Tus,
+Sample, I needed more examples, so this is some sample text and stuff, Tus,
+Paul, Thanks for your support, your money has gone a long way to helping with, Mon,
+END
